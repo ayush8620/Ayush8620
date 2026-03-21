@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 Building full-stack web platforms like **INNOHUB** for innovators & investors  
+👯 Open to collaborating on **React, Firebase, and cybersecurity-based projects**  
+🤝 Exploring **secure authentication systems & scalable backend architecture**  
+🌱 Currently learning **Next.js, Express.js & advanced web security testing**  
+💬 Ask me about **JavaScript, Firebase Auth, Firestore, Responsive UI, Ethical Hacking basics**  
+⚡ Fun fact: I enjoy combining **web development + cybersecurity** to build secure applications 🛡️
 
 
 ## 🌐 Socials:
