@@ -37,9 +37,22 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-F47B20?style=flat)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ayush8620&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ayush8620&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush8620&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=Ayush8620&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ayush8620&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush8620&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ayush8620&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)
+
+---
+
+### 📈 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=Ayush8620&theme=tokyo-night&hide_border=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
