@@ -166,7 +166,8 @@ dashboard UI
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayush8620&show_icons=true&hide_border=true&theme=radical&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayush8620&show_icons=true&hide_border=true&theme=radical&count_private=true&hide_rank=true" height="165" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com/?user=ayush8620&theme=radical&hide_border=true" height="165" alt="Total contributions and streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush8620&layout=compact&hide_border=true&theme=radical" height="165" />
 
 </div>
